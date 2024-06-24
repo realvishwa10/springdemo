@@ -16,7 +16,7 @@ jobs:
     runs-on: macos-latest
     steps:
       - name: buildstep2
-        uses: actions/checkout@4
+        uses: actions/checkout@v4
   buildjob3:
     runs-on: windows-latest
     steps:
