@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: buildstep1
-        users: actions/checkout@v4
+        uses: actions/checkout@v4
